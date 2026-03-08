@@ -1,0 +1,30 @@
+# ── Datasets (all projects) ──────────────────
+**/data/
+**/dataset/
+**/datasets/
+
+# ── Model weights (too large) ────────────────
+**/*.keras
+**/*.h5
+**/*.pt
+**/*.pth
+
+# ── Keep plots/charts ────────────────────────
+!**/*.png
+
+# ── Python cache ─────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+**/.ipynb_checkpoints/
+
+# ── Mac system ───────────────────────────────
+.DS_Store
+**/.DS_Store
+
+# ── Virtual environments ─────────────────────
+env/
+venv/
+tf-m4/
+**/env/
+**/venv/

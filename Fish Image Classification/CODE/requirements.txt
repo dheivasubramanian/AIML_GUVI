@@ -1,0 +1,10 @@
+matplotlib==3.10.8
+matplotlib-inline==0.2.1
+numpy==1.26.4
+pillow==12.1.1
+scikit-learn==1.8.0
+streamlit==1.55.0
+tensorflow==2.16.2
+tensorflow-io-gcs-filesystem==0.37.1
+tensorflow-macos==2.16.2
+tensorflow-metal==1.2.0

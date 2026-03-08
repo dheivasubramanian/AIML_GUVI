@@ -1,0 +1,26 @@
+# Dataset — too large for GitHub
+DATA/
+
+# Saved model files — too large
+CODE/saved_models/*.h5
+CODE/saved_models/*.keras
+
+# Keep history plots and confusion matrix PNGs
+!CODE/saved_models/*.png
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# Virtual environment
+env/
+venv/
+tf-m4/
+
+# Jupyter
+.jupyter/
